@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML5 Semantics</title>
+    </head>
+    <body>
+        <h1>Introduction</h1>
+        <p>HTML5 semantics refers to using HTML elements that clearly describe their meaning - both to the browser anf to developrs. Semantics elements help create cleaner, more readable and accessible code</p>
+        
+        <h2>Why semantics Matter</h2>
+        <p>
+            <ol>
+                <li>Improves accessibilty to screen readers and assistive tech.</li>
+                <li>Boosts SEO - since search engines understand your content better</li>
+                <li>Enhances maintainability</li>
+            </ol>
+        </p>
+        <h2>Types of HTML5 Sematics</h2>
+        <p>
+            <ul>
+                <li>Header - Heading section for a page</li>
+                <li>nav - navigation links </li>
+                <li>main - the main content area of the page</li>
+                <li>section - distonct section of related content</li>
+                <li>article - a self-contained pieces of content</li>
+                <li>aside - side content</li>
+                <li>footer - bottom area of a section or page </li>
+            </ul>
+        </p>
+    <footer>Baldwine Copyright@2025</footer>
+    </body>
