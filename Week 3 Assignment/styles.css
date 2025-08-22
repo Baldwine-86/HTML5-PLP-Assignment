@@ -1,0 +1,33 @@
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: Underline;
+    font: 20px Bold  italic;
+    
+}
+
+p{
+    color: burlywood;
+
+}
+* {
+    align-self: start;
+    margin: 5px;
+    padding: 5px;
+    border: 5px;
+    background-color: gray;
+}
+.box-model {
+    width:600px;
+    height: 500px;
+    background-color: aqua;
+    padding: 20px;
+    border: 3px dashed black;
+
+}
+.box{
+   width: 550x;
+   height: 450px;
+   margin: 20px;
+   border: 3px solid black;
+}
